@@ -1,0 +1,72 @@
+person  score: 0.82458144 
+location: top: 772¡B bottom: 890¡B left: 551¡B right: 642
+person  score: 0.7467615 
+location: top: 775¡B bottom: 890¡B left: 564¡B right: 655
+person  score: 0.8596056 
+location: top: 765¡B bottom: 882¡B left: 564¡B right: 653
+person  score: 0.897881 
+location: top: 766¡B bottom: 880¡B left: 562¡B right: 652
+person  score: 0.72738296 
+location: top: 778¡B bottom: 896¡B left: 570¡B right: 667
+person  score: 0.44273132 
+location: top: 779¡B bottom: 896¡B left: 572¡B right: 667
+person  score: 0.57759076 
+location: top: 774¡B bottom: 889¡B left: 603¡B right: 694
+person  score: 0.43097118 
+location: top: 782¡B bottom: 899¡B left: 581¡B right: 677
+person  score: 0.33439115 
+location: top: 788¡B bottom: 907¡B left: 557¡B right: 648
+person  score: 0.9066039 
+location: top: 815¡B bottom: 936¡B left: 568¡B right: 662
+person  score: 0.47880337 
+location: top: 814¡B bottom: 937¡B left: 530¡B right: 625
+person  score: 0.9145408 
+location: top: 798¡B bottom: 912¡B left: 564¡B right: 655
+person  score: 0.9212533 
+location: top: 805¡B bottom: 925¡B left: 584¡B right: 679
+person  score: 0.7527106 
+location: top: 805¡B bottom: 928¡B left: 587¡B right: 681
+person  score: 0.6776633 
+location: top: 810¡B bottom: 922¡B left: 594¡B right: 683
+person  score: 0.68241596 
+location: top: 807¡B bottom: 925¡B left: 601¡B right: 690
+person  score: 0.37681857 
+location: top: 819¡B bottom: 942¡B left: 609¡B right: 705
+person  score: 0.78308666 
+location: top: 833¡B bottom: 955¡B left: 599¡B right: 688
+person  score: 0.6417945 
+location: top: 851¡B bottom: 965¡B left: 611¡B right: 702
+person  score: 0.7107091 
+location: top: 844¡B bottom: 960¡B left: 602¡B right: 693
+person  score: 0.7920154 
+location: top: 843¡B bottom: 959¡B left: 603¡B right: 694
+person  score: 0.514632 
+location: top: 845¡B bottom: 963¡B left: 591¡B right: 680
+person  score: 0.84441215 
+location: top: 843¡B bottom: 960¡B left: 584¡B right: 680
+person  score: 0.6825246 
+location: top: 844¡B bottom: 960¡B left: 580¡B right: 677
+person  score: 0.88767767 
+location: top: 848¡B bottom: 961¡B left: 570¡B right: 661
+person  score: 0.7801476 
+location: top: 853¡B bottom: 966¡B left: 556¡B right: 641
+person  score: 0.6196867 
+location: top: 854¡B bottom: 966¡B left: 552¡B right: 638
+person  score: 0.4101347 
+location: top: 821¡B bottom: 940¡B left: 555¡B right: 641
+person  score: 0.5419641 
+location: top: 852¡B bottom: 964¡B left: 555¡B right: 641
+person  score: 0.734451 
+location: top: 843¡B bottom: 956¡B left: 526¡B right: 623
+person  score: 0.648992 
+location: top: 850¡B bottom: 966¡B left: 541¡B right: 635
+person  score: 0.6144168 
+location: top: 852¡B bottom: 968¡B left: 542¡B right: 633
+person  score: 0.6228459 
+location: top: 852¡B bottom: 966¡B left: 569¡B right: 658
+person  score: 0.9246743 
+location: top: 851¡B bottom: 969¡B left: 571¡B right: 665
+person  score: 0.7753889 
+location: top: 850¡B bottom: 969¡B left: 584¡B right: 679
+person  score: 0.82132846 
+location: top: 781¡B bottom: 896¡B left: 520¡B right: 612
